@@ -17,6 +17,8 @@ public class Testprojek {
         // TODO code application logic here
         System.out.println("tst");
         System.out.println("tst");
+        System.out.println("testing");
+        
     }
     
 }
